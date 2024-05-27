@@ -8,3 +8,7 @@ chromadb
 langchain_community
 pypdf
 python-dotenv
+os
+io
+pyperclip
+asyncio
