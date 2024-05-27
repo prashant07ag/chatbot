@@ -11,4 +11,5 @@ docx
 python-dotenv
 pysqlite3-binary
 pyperclip
+exceptions
 asyncio
