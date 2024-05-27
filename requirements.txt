@@ -9,6 +9,7 @@ langchain_community
 pypdf
 python-dotenv
 os
+pysqlite3-binary
 io
 pyperclip
 asyncio
